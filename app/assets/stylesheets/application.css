@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+
+
+.blockquote-footer {
+    margin-top: 0 !important;
+}
